@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://github.com/redmaskempire/redmaskbot/master/img/logo.png" height="60"><br>
+![IMAGE 1](https://raw.githubusercontent.com/redmaskempire/redmaskbot/master/img/logo.png)
 
 
 
