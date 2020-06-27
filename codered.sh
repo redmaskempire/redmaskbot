@@ -82,21 +82,21 @@ do
 				echo "${GREEN} WELCOME TO The ${RESTORE}"
 				echo "${RESTORE}"
 				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ] "
                 echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 				echo "${RESTORE}"
 				echo "${RESTORE}"
@@ -131,26 +131,26 @@ do
 				one(){
 									#logo or name
 				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW}"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ] "
                 echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
-				#========================================================================KALI====================================================================#
+	#========================================================================KALI====================================================================#
 				LPARTH=`pwd`
 
 				# NODE JS CHECK
@@ -256,8 +256,7 @@ do
 				 
 
 
-				#========================================================================KALI=====================================================================#
-
+		#========================================================================KALI=====================================================================
 
 
 					pause
@@ -267,28 +266,28 @@ do
 				two(){
 									#logo or name
 				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW}"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ] "
                 
-				echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "_____________________________________________________________________________________________________________"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 
-				#========================================================================ANDROID=====================================================================#
+	#========================================================================ANDROID=====================================================================#
 
                                # NODE JS CKECK 
 				apc=`which git`
@@ -475,10 +474,10 @@ do
 				show_menus() {
 				#logo or name
 				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW}"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
@@ -487,14 +486,14 @@ do
 
                 echo "_____________________________________________________________________________________________________________"
 
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASKS SPYBOT Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASKS SPYBOT Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 					echo " "	
 					echo " M A I N - M E N U"
@@ -558,25 +557,25 @@ one(){
 #====================================KALI-PARROT-START0end====================================================
 				#logo or name
 				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW}"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ] "
 
-				echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "_____________________________________________________________________________________________________________"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+	        echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 echo ""
 			myip=
@@ -620,26 +619,26 @@ two(){
 	
 #====================================ANDROID-START0end====================================================
 				#logo or name
-				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+			        clear	
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW}"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ]      "
                 
-				echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
-				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "_____________________________________________________________________________________________________________"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo ""
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 echo ""
 			myip=
@@ -689,25 +688,25 @@ done
 show_menus() {
 				#logo or name
 				clear	
-				echo "${GREEN} WELCOME TO The ${RESTORE}"
-				echo "${RESTORE}"
-				echo "${YELLOW}"
-				echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
+		echo "${GREEN} WELCOME TO The ${RESTORE}"
+		echo "${RESTORE}"
+		echo "${YELLOW"
+		echo "░░░░░░  ░░░░░░░ ░░░░░░  ░░░    ░░░  ░░░░░  ░░░░░░░ ░░   ░░     ░░░░░░   ░░░░░░  ░░░░░░░░ ░░░    ░░ ░░░░░░░ ░░░░░░░░ "
                 echo "▒▒   ▒▒ ▒▒      ▒▒   ▒▒ ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒      ▒▒  ▒▒      ▒▒   ▒▒ ▒▒    ▒▒    ▒▒    ▒▒▒▒   ▒▒ ▒▒         ▒▒    "
                 echo "▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒   ▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒  ▒▒    ▒▒    ▒▒    ▒▒ ▒▒  ▒▒ ▒▒▒▒▒      ▒▒    "
                 echo "▓▓   ▓▓ ▓▓      ▓▓   ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓      ▓▓ ▓▓  ▓▓      ▓▓   ▓▓ ▓▓    ▓▓    ▓▓    ▓▓  ▓▓ ▓▓ ▓▓         ▓▓    "
                 echo "██   ██ ███████ ██████  ██      ██ ██   ██ ███████ ██   ██     ██████   ██████     ██    ██   ████ ███████    ██    "
                 echo "version:2.0.1    [ REDMASK SPYBOTNET  >>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<   Developer: REDMASK ] "
               
-				echo "_____________________________________________________________________________________________________________"
-				echo "DISCLAIMER >>"
-				echo "${RED}"
-				echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
-				echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
-				echo "state and federal laws. Developers assume no liability and are not responsible"
-				echo "for any misuse or damage caused by this program. Only use for educational purposes."				
+		echo "_____________________________________________________________________________________________________________"
+		echo "DISCLAIMER >>"
+		echo "${RED}"
+		echo "Usage of REDMASK SPYBOTNET Hacking Tool for attacking targets without prior mutual "
+		echo "consent is illegal. It's the end user's responsibility to obey all applicable local," 
+		echo "state and federal laws. Developers assume no liability and are not responsible"
+		echo "for any misuse or damage caused by this program. Only use for educational purposes."				
 				echo ""
-				echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
+		echo "${BLUE}██████████████████████████████████████████████████████████████████████████████████████████████████████████████${GREEN}"
 
 	echo ""	
 	echo " M A I N - M E N U"
