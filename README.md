@@ -1,4 +1,5 @@
-                                               https://github.com/redmaskempire/redmaskbot/blob/master/img/logo.png
+<p align="center">
+<img src="https://github.com/redmaskempire/redmaskbot/blob/master/img/logo.png
 
 
 
