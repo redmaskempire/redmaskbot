@@ -4,7 +4,8 @@ Usage of redmaskspybotnet Hacking Tool for attacking targets without prior mutua
 All pkg automatic download and install
 
 💡 HOW TO INSTALL in any Linux (kali/android)
-ggggg
+
+git clone https://github.com/redmaskempire/redmaskbot.git
 
 cd redmaskbot/codered
 
