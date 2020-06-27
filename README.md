@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/redmaskempire/redmaskbot/blob/master/img/logo.png height="60"><br>
+<img src="https://github.com/redmaskempire/redmaskbot/master/img/logo.png height="60"><br>
 
 
 
